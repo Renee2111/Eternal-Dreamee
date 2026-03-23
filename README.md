@@ -163,8 +163,8 @@ File .docx (data/processed/)
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/[TODO]/[TODO].git
-cd [TODO]
+git clone https://github.com/Benhochoi/Eternal-Dreamee.git
+cd /Eternal-Dreamee
 ```
 
 ### 2. Cài đặt dependencies
