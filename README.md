@@ -256,10 +256,6 @@ Mở file `HVBot_-_Trợ_lý_Học_viện_Ngân_Hàng.html` trực tiếp trong 
 
 > ⚠️ **Quan trọng:** Phải khởi động `main.py` **trước**, sau đó mới mở file HTML.
 
-### Giao diện chat
-
-![Giao diện HVBot](./)
-
 ### Gọi API — chế độ thông thường
 
 ```bash
