@@ -405,7 +405,7 @@ Nếu phát hiện lỗi, vui lòng [mở issue](https://github.com/[TODO]/[TODO
 | Tên | Vai trò | GitHub |
 |---|---|---|
 | Đào Nguyên Chiến | Leader | [@Benhocchoi](https://github.com/Benhochoi) |
-| Nguyễn Viết Việt Quốc | Developer | [@TODO](https://github.com/TODO) |
+| Nguyễn Viết Việt Quốc | Developer | [@Renee2111](https://github.com/Renee2111) |
 | Lê Thị Phượng | Developer | [@TODO](https://github.com/TODO) |
 | Ngô Thuý Hạnh | Developer | [@TODO](https://github.com/TODO) |
 | Lê Minh Tiểu Phượng | Developer | [@TODO](https://github.com/TODO) |
